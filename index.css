@@ -1,0 +1,28 @@
+h1,h2{  
+   font-family: 'Tajawal', sans-serif;
+    font-size:20px;
+    line-height: 1.5;
+    background: #eef; 
+    text-align: justify;
+
+   } 
+
+body,head{
+     font-family: "Merriweather", serif;
+     font-size:100px;
+     background-image: url(image/ma.jpg); 
+     color:white;
+     text-align: center;
+}
+
+text{
+    margin: 5px;
+}
+table{
+    border="100";
+    text-align: center;
+    margin: 100px;
+    border-bottom-style: hidden;
+    border-color: white;
+    line-height: 2;
+}
